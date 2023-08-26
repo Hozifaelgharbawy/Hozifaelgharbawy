@@ -23,7 +23,7 @@
 ## Connect with me:
 <p align="left">
 <a href="https://www.linkedin.com/in/hozifa-elgharbawy-4bb1451ba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hozifa-elgharbawy" height="30" width="40" /></a>
-<a href="[https://fb.com/ahmed.haytam.7](https://www.facebook.com/HozifaElgharbawy/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hozifaElgharbawy" height="30" width="40" /></a>
+<a href="https://www.facebook.com/HozifaElgharbawy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hozifaElgharbawy" height="30" width="40" /></a>
 <a href="https://wa.me/201025081821" target="blank"><img align="center" src="https://github.com/rahulbanerjee26/githubProfileReadmeGenerator/blob/main/icons/whatsapp.svg" alt="hozifa_elgharbawy" height="30" width="40" /></a>
 </p>
 
